@@ -20,7 +20,7 @@
 
 Impaction is a professional FFlag editor client for Roblox that allows you to modify and customize your game experience within Roblox's Terms of Service. Unlike exploit tools, Impaction operates completely legally and transparently.
 
-**Main Developer:** [Yhujin](https://github.com/Yhujin)
+**Main Developer:** [Yhujin](https://www.youtube.com/@yhujinism)
 
 ## ✨ Features
 
