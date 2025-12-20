@@ -20,6 +20,8 @@
 
 Impaction is a professional FFlag editor client for Roblox that allows you to modify and customize your game experience within Roblox's Terms of Service. Unlike exploit tools, Impaction operates completely legally and transparently.
 
+**Main Developer:** [Yhujin](https://github.com/Yhujin)
+
 ## ✨ Features
 
 ### ✅ 100% Legal
@@ -66,17 +68,33 @@ Impaction is a professional FFlag editor client for Roblox that allows you to mo
 3. **Compile** the source code (if needed)
 4. **Run** the compiled application
 
+## ⚙️ Setup & Configuration
+
+### Important Setup Instructions:
+Before using Impaction, follow these steps carefully:
+
+1. **Launch Roblox First**: Make sure Roblox is running and you're logged in
+2. **Run Impaction**: Open the Impaction client
+3. **Setup Configuration**: 
+   - Click the **"Setup"** button in Impaction
+   - This will configure FFlag settings for your Roblox session
+   - Wait for confirmation message
+
+### ⚠️ Critical Note:
+**You MUST have Roblox open and running before pressing the "Setup" button.** The setup process needs to connect to your active Roblox session to properly configure FFlags. If Roblox is not running, the setup will fail.
+
 ## 🖥️ Screenshot
 
 ![Impaction Interface](client.png)
 
 ## 🛠️ Usage
 
-1. Launch Impaction after installation
-2. Connect to your Roblox client
-3. Navigate through the intuitive interface
-4. Modify FFlags according to your preferences
-5. Save configurations for future use
+1. **Prerequisite**: Launch Roblox and log in
+2. **Run** Impaction client
+3. **Press "Setup"** button to configure FFlags
+4. Navigate through the intuitive interface
+5. Modify FFlags according to your preferences
+6. Save configurations for future use
 
 ## 📖 Documentation
 
@@ -84,3 +102,5 @@ Impaction is a professional FFlag editor client for Roblox that allows you to mo
 ```bash
 # Run Impaction client
 ./Impact.exe
+
+# Important: Always have Roblox running before setup!
