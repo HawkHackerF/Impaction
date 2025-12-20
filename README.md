@@ -84,6 +84,3 @@ Impaction is a professional FFlag editor client for Roblox that allows you to mo
 ```bash
 # Run Impaction client
 ./Impact.exe
-
-# View available options
-./Impact.exe --help
