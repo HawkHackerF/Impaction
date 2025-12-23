@@ -35,7 +35,6 @@ Impaction is a professional FFlag editor client for Roblox that allows you to mo
 - Regular updates and improvements
 
 ### 🤝 Active Community
-- Join thousands of users on Discord
 - Get support and share configurations
 - Stay updated with latest features
 
