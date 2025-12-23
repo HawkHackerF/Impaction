@@ -72,12 +72,12 @@ Impaction is a professional FFlag editor client for Roblox that allows you to mo
 ### Important Setup Instructions:
 Before using Impaction, follow these steps carefully:
 
-1. **Launch Roblox First**: Make sure Roblox is running and you're logged in
-2. **Run Impaction**: Open the Impaction client
-3. **Setup Configuration**: 
+1. **Run Impaction**: Open the Impaction client
+1. **Setup Configuration**: 
    - Click the **"Setup"** button in Impaction
    - This will configure FFlag settings for your Roblox session
    - Wait for confirmation message
+3. **Open Roblox**: To see the results of the config you have installed
 
 ### ⚠️ Critical Note:
 **You MUST have Roblox open and running before pressing the "Setup" button.** The setup process needs to connect to your active Roblox session to properly configure FFlags. If Roblox is not running, the setup will fail.
@@ -88,7 +88,6 @@ Before using Impaction, follow these steps carefully:
 
 ## 🛠️ Usage
 
-1. **Prerequisite**: Launch Roblox and log in
 2. **Run** Impaction client
 3. **Press "Setup"** button to configure FFlags
 4. Navigate through the intuitive interface
