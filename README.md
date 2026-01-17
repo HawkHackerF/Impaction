@@ -65,7 +65,7 @@ Impaction is a comprehensive Roblox launcher with dark mode interface that provi
 1. Select game from library or enter Game ID
 2. Choose configuration preset
 3. Review FFlag settings
-4. Click "Launch Roblox"
+4. Click "Connect"
 5. Game starts with applied optimizations
 
 ## ⚙️ Detailed Settings Menu
