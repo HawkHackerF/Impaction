@@ -130,28 +130,6 @@ Lock Roblox texture quality at a certain level
 3. Click **Run**
 4. Click **Connect**
 
-### Quick Presets:
-
-#### **High End Config** (For powerful PCs):
-- **UnCap:** 9999 FPS
-- **Graphics Optimization Mode:** Quality
-- **Rendering Mode:** DirectX11
-- **Anti Aliasing:** 4 (High)
-- **Texture Quality:** 10 (Highest)
-- **Reduced Motion:** false
-- **Player Name:** true
-- **Render Resolution Cap:** 1440p or 4K
-
-#### **Low End Config** (For older/weaker PCs):
-- **UnCap:** 9999 FPS
-- **Graphics Optimization Mode:** Performance
-- **Rendering Mode:** DirectX11
-- **Anti Aliasing:** 0 (Off)
-- **Texture Quality:** 0 (Lowest)
-- **Reduced Motion:** true
-- **Player Name:** false
-- **Render Resolution Cap:** 720p
-
 ## 🔒 Compatibility
 
 ### Legal Compliance:
