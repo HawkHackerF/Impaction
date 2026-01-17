@@ -87,10 +87,9 @@ Determine the engine strategy for rendering graphics
 
 #### **Rendering Mode**
 Select graphics API for rendering
-- **Options:** DirectX11, Vulkan, OpenGL
+- **Options:** DirectX11 & Vulkan
 - **DirectX11:** Best compatibility
 - **Vulkan:** Better performance on supported systems
-- **OpenGL:** Alternative for older systems
 
 #### **Render Resolution Cap**
 Sets the maximum total render pixel limit
