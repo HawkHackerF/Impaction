@@ -49,7 +49,7 @@ Impaction is a comprehensive Roblox launcher with dark mode interface that provi
 ### System Requirements:
 - **OS:** Windows 10/11 (64-bit)
 - **RAM:** 4GB minimum
-- **Storage:** 50MB free space
+- **Storage:** 10MB free space
 - **Roblox:** Latest version installed
 
 ## 🚀 Getting Started
