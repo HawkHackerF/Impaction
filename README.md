@@ -1,4 +1,4 @@
-# Impaction - FFlag Editor for Roblox
+# Impaction - Simple launcher for Roblox
 
 <div align="center">
 
