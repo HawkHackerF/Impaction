@@ -1,4 +1,4 @@
-# (Impaction - Roblox Launcher)[https://impactionlab.vercel.app/]
+# [Impaction - Roblox Launcher](https://impactionlab.vercel.app/)
 
 **Advanced Roblox Launcher with Dark Mode FFlag Editor**
 
