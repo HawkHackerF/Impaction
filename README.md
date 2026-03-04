@@ -1,6 +1,7 @@
 # [Impaction - Roblox Launcher](https://impactionlab.vercel.app/)
 
 **Advanced Roblox Launcher with Dark Mode FFlag Editor**
+**Made By Yhujin. dsc.gg/realdust**
 
 **Download:** `download/Impaction.rar`
 
